@@ -1,4 +1,4 @@
-# Week 10: Backend Basics - CommunityHub API
+#  Backend Basics - CommunityHub API
 
 A RESTful API built with **Node.js** and **Express** that serves as the backend for the CommunityHub platform. This project covers the fundamentals of server-side development, including CRUD operations, middleware, error handling, and modular architecture.
 
